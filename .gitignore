@@ -1,5 +1,6 @@
 #test floder
 test/
 *.xlsx
-*.md 
+*.md
+*.sh
 
